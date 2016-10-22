@@ -40,7 +40,7 @@ tasks:
       from:
         - nyaa:
             category: anime eng
-            filter: trusted only
+            filter: filter remakes 
       interval: 12 hours
 '''
 
