@@ -1,0 +1,8 @@
+config.yml
+received
+flexget.log*
+crash*
+*.sqlite
+__pycache__
+.config-lock
+twitter.yml
